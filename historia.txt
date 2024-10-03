@@ -7,6 +7,9 @@ Para registrar los cambios
 Pero no son suficientes, por esto se agregan más
 
 Experimento 1
+
+Experimento 2
+
 Master 1
 
 Master 2
